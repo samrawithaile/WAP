@@ -31,7 +31,7 @@ a:active{
 }
 strong {
 	color: red;
-/*	font-family : "Arial Black";
-/**/	font-size: 1em;
-*/	font-style: italic;
+	font-family : "Arial Black";
+	font-size: 1em;
+	font-style: italic;
 }
